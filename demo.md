@@ -6,3 +6,4 @@
 
 3rd change
 
+release 1.0
